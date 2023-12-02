@@ -1,0 +1,56 @@
+[
+    {
+        "name": "iphone",
+        "price": 145,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 1444,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone14",
+        "price": 1450,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 133,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 1666,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "samsung-galaxy",
+        "price": 1405,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "laptop",
+        "price": 145,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "laptop",
+        "price": 145,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "mi20",
+        "price": 145,
+        "featured": true,
+        "company": "mi"
+    }
+]
